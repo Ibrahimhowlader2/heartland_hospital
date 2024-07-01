@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'django_cleanup.apps.CleanupConfig',
 ]
-CSRF_TRUSTED_ORIGINS = ['https://library-management-ccsh.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://heartland-hospital.onrender.com']
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
